@@ -11,9 +11,9 @@ const QrCode = () => {
                 />
             </div>
             <div className='flex flex-col gap-4 px-8 pt-2'>
-                <h2 className='text-tBase font-bold text-[22px] leading-[120%] tracking-[0px]'>
+                <h1 className='text-tBase font-bold text-[22px] leading-[120%] tracking-[0px]'>
                     Improve your front-end skills by building projects
-                </h2>
+                </h1>
                 <p className='text-secondary text-[15px] leading-[140%] tracking-[0.2px]'>
                     Scan the QR code to visit Frontend Mentor and take your
                     coding skills to the next level
